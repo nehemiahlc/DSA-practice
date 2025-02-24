@@ -129,7 +129,7 @@ This folder contains solutions to various two-pointer-related coding problems.
     4. Focus on fundamentals: Make sure you have a solid grasp of basic data 
     structures, algorithms, and software engineering principles. 
 
- ---
+---
  
 ## Interval intersection 
 ### Things we did good: 
