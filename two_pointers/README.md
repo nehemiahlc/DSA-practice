@@ -106,3 +106,37 @@ This folder contains solutions to various two-pointer-related coding problems.
 - **Think of sets**—they provide **instant lookups**. Use a set like this:  
   ```python
   arr_set = set()
+- Ask yourself what DS can I use here? 
+    * If I’m iterating over a whole list, ask can I just do what is missing? 
+    Or over the specific values I want… 
+    * n^2, work on finding an optimal solution… 
+    * Don’t do unnecessary iterations(think sets) 
+- Gaps in understanding: 
+    1. Data structure trade-offs: Understand the pros and cons of different 
+    data structures (e.g., lists, sets, dictionaries). In this case, using a 
+    set provided faster lookups. 
+    2. Algorithmic complexity: Familiarize yourself with Big O notation and 
+    practice analyzing the time and space complexity of your solutions. 
+    3. Problem decomposition: Break down problems into smaller sub-problems 
+    and identify opportunities for optimization. 
+- Advice: 
+    1. Practice consistently: Regularly solve problems on LeetCode or other 
+    platforms to develop your problem-solving skills. 
+    2. Analyze your solutions: Take the time to review your code, identify areas
+     for improvement, and optimize your solutions. 
+    3. Learn from others: Study solutions from experienced coders, and try to 
+    understand their thought process and design decisions. 
+    4. Focus on fundamentals: Make sure you have a solid grasp of basic data 
+    structures, algorithms, and software engineering principles. 
+
+ ---
+ 
+## Interval intersection 
+### Things we did good: 
+- We did pseudocode to try and work through the problem 
+- We understood the problem 
+### Things we need to remember  
+- Put more pieces together in the problem to see the bigger picture 
+- Think about two pointer approaches more and get better and solving them 
+- Work through the problem  
+- Again look at edge cases! 
